@@ -1,0 +1,30 @@
+{
+  "name": "silverpop",
+  "version": "0.0.0",
+  "description": "Silverpop Engage API Library",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/desmondmorris/node-silverpop.git"
+  },
+  "keywords": [
+    "silverpop"
+  ],
+  "author": "Desmond Morris <hi@desmondmorris.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/desmondmorris/node-silverpop/issues"
+  },
+  "dependencies": {
+    "request": "~2.40.0",
+    "xml2js": "~0.4.4"
+  },
+  "devDependencies": {
+    "mocha": "~1.21.4",
+    "should": "~4.0.4",
+    "nock": "~0.45.0"
+  }
+}

@@ -1,0 +1,6 @@
+box: wercker/nodejs
+# Build definition
+build:
+  steps:
+    - npm-install
+    - npm-test
