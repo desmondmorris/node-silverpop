@@ -1,6 +1,6 @@
 {
   "name": "silverpop",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Silverpop Engage API Library",
   "main": "index.js",
   "scripts": {
